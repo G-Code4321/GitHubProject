@@ -1,3 +1,5 @@
 # Ini adalah program Python pertama saya
 print("Hello, World!")
 print("Hi, ini repo pertama saya")
+
+print("GitHub is fun!")
